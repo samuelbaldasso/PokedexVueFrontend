@@ -43,13 +43,13 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/samuelbaldasso/Pokedex-TypeScript-Vue2-Vue_Test_Utils-Jest-PokeAPI.git
+git clone https://github.com/samuelbaldasso/PokedexWebFrontend.git
 ```
 
 ### 2. Acesse o diretório do projeto
 
 ```bash
-cd Pokedex-TypeScript-Vue2-Vue_Test_Utils-Jest-PokeAPI
+cd PokedexWebFrontend
 ```
 
 ### 3. Instale as dependências
